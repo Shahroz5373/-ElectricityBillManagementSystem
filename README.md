@@ -17,7 +17,10 @@ The Electricity Bill Management System is designed to manage electricity billing
 
 To set up the project:
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Shahroz5373/ElectricityBillManagementSystem.git
-   
+## Cloning the Repository
+
+To clone this repository, use the following command:
+
+```bash
+git clone https://github.com/Shahroz5373/ElectricityBillManagementSystem.git
+
